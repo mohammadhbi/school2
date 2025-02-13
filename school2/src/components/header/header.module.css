@@ -1,0 +1,15 @@
+.headercontainer{
+    /* width: 98%; */
+    margin: auto;
+  background-image: url(../../assets/headerbg.svg);
+  background-repeat: no-repeat;
+  object-fit: cover;
+    margin-top: 40px;
+width: 98%;
+height: 500px;
+border-radius: 12px;
+border-width: 2px;
+border: 2px solid #262626;
+box-shadow: 8px 8px 0px 1px #1E1E1E;
+
+}
