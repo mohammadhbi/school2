@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Outfit:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Outfit:wght@100..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+.sectiontop {
+    width: 90%;
+    height: 922px;
+    margin: auto;
+    gap: 30px;
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    /* background: green; */
+}
+
+.title {
+    /* width: 287px;
+    height: 47px; */
+    gap: 10px;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    border-radius: 8px;
+    border-width: 2px;
+    background: #FFFFFF;
+    border: 2px solid #000000;
+    font-family: Outfit;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #333333;
+}
+
+.benefits {
+    font-family: Raleway;
+    font-weight: 700;
+    font-size: 58px;
+    line-height: 75.4px;
+    letter-spacing: 0%;
+    text-align: center;
+
+}
+
+.paragraph {
+    font-family: Outfit;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-align: center;
+    width: 992px;
+    height: 60px;
+    padding-bottom: 90px;
+
+}
+
+
+
+
+
+.cards {
+    width: 100%;
+    /* height: 702px; */
+    display: flex;
+    gap: 50px;
+    flex-direction: column;
+
+}
+
+.upcards{
+    display: flex;
+    gap: 20px;
+    
+}
+.downcards{
+    display: flex;
+    gap: 20px;
+}
+
+.card {
+    position: relative;
+    /* margin-left: -35px; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 355px;
+    height: 185px;
+    border-radius: 12px;
+    border-width: 2px;
+    padding-top: 80px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    background-color: #fff;
+    box-shadow: 6px 6px 0px 2px #1E1E1E;
+    border: 2px solid #262626;
+ 
+    gap: 30px;
+}
+
+.card span {
+    font-family: Raleway;
+    margin-bottom: 30px;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 36.4px;
+    letter-spacing: 0%;
+    margin-left: -15px;
+}
+
+.card p {
+    padding-left: 10px;
+    font-family: Outfit;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0%;
+    color: #4C4C4D;
+    width: 390px;
+    height: 150px;
+    margin-left: -20px;
+    
+
+}
+.card img{
+    z-index: 2;
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    margin-bottom: 350px;
+    margin-right: 10px;
+    margin-left: -10px;
+}
