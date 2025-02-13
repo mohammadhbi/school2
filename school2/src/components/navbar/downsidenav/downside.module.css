@@ -1,0 +1,38 @@
+.downside {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    border: solid black 1px;
+    position: relative;
+    margin: auto;
+    width: 99%;
+    /* height: 80; */
+    border-radius: 12px;
+    border-width: 2px;
+margin-top: 5px;
+
+}
+.downside img{
+    border-radius: 12px;
+}
+
+.ullist {
+    display: flex;
+    gap: 12px;
+    position: relative;
+    list-style: none;
+    
+}
+ul li {
+    border-right:2px black solid;
+    /* position: absolute; */
+}
+
+.bghome {
+    background: #FFEFE5;
+}
+
+.bgcontactus {
+    background: #FFAE80;
+
+}

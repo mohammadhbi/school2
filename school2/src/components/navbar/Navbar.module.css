@@ -1,0 +1,8 @@
+.Navbar{
+display: flex;
+flex-direction: column; 
+ width : 99%;
+height: 152px;
+gap: 14px;
+margin: auto;
+}
