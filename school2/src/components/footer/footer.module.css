@@ -1,0 +1,15 @@
+.footer {
+    width: 90%;
+    margin: auto;
+    margin-top: 40px;
+    border-radius: 12px;
+    border-width: 2px;
+    padding-top: 50px;
+    padding-right: 35px;
+    padding-bottom: 40px;
+    padding-left: 35px;
+    /* gap: 50px; */
+    border: 2px solid #262626;
+    box-shadow: 6px 6px 0px 2px #1E1E1E;
+height: auto;
+}

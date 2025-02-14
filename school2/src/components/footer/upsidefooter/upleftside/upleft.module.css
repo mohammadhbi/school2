@@ -1,0 +1,32 @@
+.belive{
+    width: 519px;
+height: 60px;
+font-family: Outfit;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+letter-spacing: 0%;
+color:#4C4C4D;
+padding-top: 5px;
+padding-bottom: 25px;
+}
+.community{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.community span{
+    font-family: Outfit;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+letter-spacing: 0%;
+color: #262626;
+margin-top: 5px;
+margin-left: 5px;
+}
+.community div{
+    display: flex;
+    margin-top: 5px;
+    gap: 5px;
+}

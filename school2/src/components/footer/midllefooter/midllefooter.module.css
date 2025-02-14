@@ -1,0 +1,27 @@
+.midllefooter{
+    margin-top: 35px;
+    border-top: 1px solid #262626;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #262626;
+}
+.midllefooter ul {
+    display: flex;
+    gap: 10px;
+    list-style: none;
+    font-family: Outfit;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 0%;
+    color: #333333;
+    margin-left: -40px;
+
+
+}
+.midllefooter li{
+    border-right: #262626 solid 2px;
+    padding-right: 10px;
+}
