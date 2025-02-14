@@ -1,0 +1,136 @@
+.bottomsection {
+    width: 90%;
+    height: 922px;
+    margin: auto;
+    gap: 30px;
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    /* background: green; */
+    margin-top: 550px;
+}
+
+.title {
+    /* width: 287px;
+    height: 47px; */
+    gap: 10px;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    border-radius: 8px;
+    border-width: 2px;
+    background: #FFFFFF;
+    border: 2px solid #000000;
+    font-family: Outfit;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #333333;
+}
+
+.benefits {
+    font-family: Raleway;
+    font-weight: 700;
+    font-size: 58px;
+    line-height: 75.4px;
+    letter-spacing: 0%;
+    text-align: center;
+
+}
+
+.paragraph {
+    font-family: Outfit;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-align: center;
+    width: 992px;
+    height: 60px;
+    padding-bottom: 90px;
+
+}
+
+.all {
+    background: #FFEFE5;
+
+}
+
+button {
+    margin: 10px;
+    padding-top: 14px;
+    padding-right: 20px;
+    padding-bottom: 14px;
+    padding-left: 20px;
+    border-radius: 8px;
+    border-width: 2px;
+    background: #FFFFFF;
+    border: 2px solid #333333;
+    font-family: Outfit;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 26px;
+    letter-spacing: 0%;
+
+}
+
+.classroom {
+    width: 1100px;
+    height: 480px;
+    margin-left: -40px;
+    border: 2px solid #262626;
+    margin-top: 150px;
+    border-radius: 12px;
+    border-width: 2px;
+    box-shadow: 6px 6px 0px 2px #1E1E1E;
+
+}
+
+.classroom p {
+    font-family: Outfit;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 33px;
+    letter-spacing: 0%;
+ width: 99%;
+ margin-left: 25px;
+ margin-top: -50px;
+ color: #4C4C4D;
+}
+
+img {
+    width: 1100px;
+    height: 290px;
+    margin: auto;
+    margin-top: -150px;
+}
+
+.titlebar {
+    display: flex;
+    justify-content: space-between;
+    width: 1150px;
+    margin-left: 10px;
+    padding-bottom: -10px;
+
+}
+
+.titlebar img {
+    width: 120px;
+    margin-right: 100px;
+    margin-bottom: 10px;
+}
+
+.titlebar span {
+    font-family: Raleway;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 52px;
+    letter-spacing: 0%;
+    margin-top: -20px;
+    margin-left: 20px;
+
+}
