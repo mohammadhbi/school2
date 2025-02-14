@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Outfit:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Outfit:wght@100..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+.sectionmidlle {
+    width: 90%;
+    height: 922px;
+    margin: auto;
+    gap: 30px;
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    /* background: green; */
+    margin-top: 250px;
+}
+
+.title {
+    /* width: 287px;
+    height: 47px; */
+    gap: 10px;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    border-radius: 8px;
+    border-width: 2px;
+    background: #FFFFFF;
+    border: 2px solid #000000;
+    font-family: Outfit;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #333333;
+}
+
+.benefits {
+    font-family: Raleway;
+    font-weight: 700;
+    font-size: 58px;
+    line-height: 75.4px;
+    letter-spacing: 0%;
+    text-align: center;
+
+}
+
+.paragraph {
+    font-family: Outfit;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-align: center;
+    width: 992px;
+    height: 60px;
+    padding-bottom: 90px;
+
+}
+
+
+.servicescard {
+    background-image: url("../../../assets/card.svg");
+    border: 2px solid #262626;
+    box-shadow: 6px 6px 0px 2px #1E1E1E;
+    border-radius: 12px;
+    width: 360px;
+    background-size: cover;
+    padding-top: 30px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    box-sizing: content-box;
+    align-items: center;
+    
+}
+
+.servicescard img {
+    width: 280px;
+}
+
+.servicescard h4 {
+    font-family: Raleway;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 36.4px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #1A1A1A;
+    margin: 30px 0px 0px 0px;
+
+}
+
+.servicescard p {
+    font-family: Outfit;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #4C4C4D;
+    margin-bottom: 30px;
+    text-align: center;
+    width: 360px;
+  margin-top: 20px;
+}
+.cards{
+    display: flex;
+    flex-direction: column;
+}
+.upcards{
+    display: flex;
+    gap: 30px;
+    margin-top: 20px;
+
+}
+.dowcards{
+    display: flex;
+    flex-direction: row;
+}
