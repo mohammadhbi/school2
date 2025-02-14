@@ -62,7 +62,7 @@
 .servicescard {
     background-image: url("../../../assets/card.svg");
     border: 2px solid #262626;
-    box-shadow: 6px 6px 0px 2px #1E1E1E;
+    /* box-shadow: 6px 6px 0px 2px #1E1E1E; */
     border-radius: 12px;
     width: 360px;
     background-size: cover;
